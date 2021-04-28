@@ -1,8 +1,8 @@
 
-=== Mon Feb  1 17:00:03 2021
+=== Wed Jan 20 18:00:01 2021
 
 Packages were changed.
-Update Mode: resetToDefaultDependencies
+Update Mode: mergeDefaultDependencies
 
 The following packages were added:
   com.unity.collab-proxy@1.2.16
@@ -39,7 +39,20 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
-  com.unity.test-framework@1.1.20
+  com.unity.test-framework@1.1.19
   com.unity.textmeshpro@2.1.1
   com.unity.timeline@1.2.17
   com.unity.ugui@1.0.0
+The following packages were updated:
+  com.unity.2d.animation from version 3.2.4 to 3.2.6
+  com.unity.2d.pixel-perfect from version 2.0.4 to 2.1.0
+  com.unity.2d.psdimporter from version 2.1.5 to 2.1.6
+  com.unity.2d.spriteshape from version 3.0.13 to 3.0.14
+
+=== Mon Feb  1 17:31:33 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.19 to 1.1.20
